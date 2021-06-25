@@ -1,3 +1,32 @@
+.infoContainer {
+  background-color: #003B67;
+  border-style: solid;
+  border-top-width: 60px;
+  border-right-width: 60px;
+  border-left-width: 60px;
+  border-bottom-width: 25px;
+  border-image-slice: 1;
+  border-image-source: linear-gradient(to bottom, #084f85, #013c68);
+  max-width: 750px !important;
+}
+
+.cuota-fija {
+  background-color: #00355D;
+}
+
+.obtene-credito button{
+  background-color: #17AA8D;
+}
+
+.detalles-cuota button{
+  background-color: #0B548B;
+  font-size: 15px;
+}
+
+body {
+  font-family: 'Montserrat' !important;
+}
+
 .App {
   text-align: center;
 }

@@ -1,0 +1,18 @@
+.rc-slider-rail {
+    border-radius: 0;
+    height: 6px;
+}
+
+.rc-slider-handle {
+    width: 18px;
+    height: 18px;
+    border: unset;
+}
+
+.rc-slider-handle:hover {
+    border: unset;
+}
+
+.rc-slider-track {
+    background-color: unset;
+}
